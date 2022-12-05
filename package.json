@@ -3,7 +3,7 @@
   "displayName": "Live Question Display",
   "publisher": "Vibhanshu03",
   "description": "Live display of question of coding platforms",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "engines": {
     "vscode": "^1.72.0"
   },
