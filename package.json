@@ -1,5 +1,5 @@
 {
-  "name": "LQD2",
+  "name": "LQD3",
   "displayName": "Live Question Display",
   "publisher": "Vibhanshu03",
   "description": "Live display of question of coding platforms",
@@ -22,7 +22,7 @@
         {
           "id": "LiveQD-sidebar-view",
           "title": "LiveQD",
-          "icon": ""
+          "icon": "media/question.svg"
         }
       ]
     },
@@ -32,7 +32,7 @@
           "type": "webview",
           "id": "LiveQD-sidebar",
           "name": "LiveQD",
-          "icon": "",
+          "icon": "media/question.svg",
           "contextualTitle": "LiveQD"
         }
       ]

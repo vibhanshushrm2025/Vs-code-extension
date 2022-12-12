@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "file": "HelloWorld.css",
+  "sources": [
+    "HelloWorld.svelte"
+  ],
+  "sourcesContent": [
+    "<script lang=\"ts\">// console.log(\"hello muh mein lelo\");\r\n// let g=document.querySelector('button');\r\n// g?.addEventListener('click',()=>{console.log(\"bhagg bsdk\");});\r\n</script>\r\n<h1>Helloo2</h1>\r\n<input type=\"text\">\r\n<button id=\"ex\">click me</button>\r\n<img src=\"https://i.ytimg.com/vi/DRQ_5qHk82w/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCH-efuq2qby1eUGPEHNV2dcZ90Kw\" alt=\"\" width=\"300px\" >\r\n<style>\r\n    h1{\r\n        border: 10px solid orange;\r\n    }\r\n</style>\r\n"
+  ],
+  "names": [],
+  "mappings": "AASI,gBAAE,CAAC,AACC,MAAM,CAAE,IAAI,CAAC,KAAK,CAAC,MAAM,AAC7B,CAAC"
+}
