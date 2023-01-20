@@ -8,7 +8,7 @@
 <p>After installing the extension , the extension ion will be shown in the leftmost sidebar , as a question icon . After clicking on that , user will be asked the contest id . User can get contest ID from the contest url as follows : </p>
 <img src="imgreadme/cfcontest.jpg" width= "500px">
 <p>After pasting the contest id , extension will take few seconds to fetch question and will display the same in the primary sidebar . User can navigate the questions through the next/previous buttons provided .</p>
-<h3>Video Tutorial : <a href="https://drive.google.com/file/d/1e_yMnwlMm7ppqfohYR64lGn48y-uNkWG/view?usp=sharing">drive link</a></h3>
+<h3>Video Tutorial : <a href="https://drive.google.com/file/d/1gia6fbK-VUGxe3WuyM5OP40KBwSze9_Z/view">drive link</a></h3>
 <br>
 <h2>Common issues faced : </h2>
 <h3>If the questions aren't showing in the sidebar :</h3>
